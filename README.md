@@ -39,6 +39,7 @@ Aspiring Junior Data Analyst with a strong foundation in data analysis, SQL, and
 - [BigQuery Projects](https://console.cloud.google.com/bigquery?sq=568406084297:b193304da45849a088e5a53dee4a6159)
 
 ### **Python & Jupyter Notebook**
+- [View visualization](https://github.com/TetianaZvorygina/TTT/blob/main/b14bb211-2e44-462a-ab5d-72d142bdf6e3HW6_2.ipynb).
 - A/B Testing and Data Analysis
 
 ---
@@ -97,3 +98,4 @@ Aspiring Junior Data Analyst with a strong foundation in data analysis, SQL, and
 ## **Referrals**
 
 Available upon request
+
