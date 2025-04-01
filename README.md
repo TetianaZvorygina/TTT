@@ -31,12 +31,13 @@ Aspiring Junior Data Analyst with a strong foundation in data analysis, SQL, and
 ### **Data Visualization**
 - **Looker Studio Dashboard:** [View Dashboard](https://lookerstudio.google.com/s/iA3XchFWisE)
 - **Tableau Dashboards:**  
-  - [HW5 Dashboard](https://public.tableau.com/views/HW5_Zv/HW5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-  - [HW3 Dashboard](https://public.tableau.com/views/HW3_Zvorygina/HW3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-  - [HW3 Visualization](https://public.tableau.com/views/HW3_Zv/HW3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+  - [Dashboard 1](https://public.tableau.com/views/HW5_Zv/HW5?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  - [Dashboard 2](https://public.tableau.com/views/HW3_Zvorygina/HW3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+  - [Dashboard 3](https://public.tableau.com/views/HW3_Zv/HW3?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-### **SQL in BigQuery**
-- [BigQuery Projects](https://console.cloud.google.com/bigquery?sq=568406084297:b193304da45849a088e5a53dee4a6159)
+### **SQL & BigQuery**
+- [Dbeaver Project](https://github.com/TetianaZvorygina/TTT/blob/main/SQL_code_example_Zvorygina.sql)
+- [BigQuery Project](https://console.cloud.google.com/bigquery?sq=568406084297:b193304da45849a088e5a53dee4a6159)
 
 ### **Python & Jupyter Notebook**
 - [View code](https://github.com/TetianaZvorygina/TTT/blob/main/b14bb211-2e44-462a-ab5d-72d142bdf6e3HW6_2.ipynb)
